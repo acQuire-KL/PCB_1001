@@ -804,7 +804,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_REED_CT10-XXXX-G1"
 			(at 149.86 86.36 0)
 			(effects
 				(font
@@ -813,7 +813,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://cototechnology.com/wp-content/uploads/2014/09/CotoClassic-CT10-Datasheet.pdf"
 			(at 149.86 86.36 0)
 			(effects
 				(font
@@ -822,7 +822,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Single Pole Single Throw (SPST) switch"
+		(property "Description" "Reed Switch SPST-NO 10 ~ 30AT Operate Range 10W 500mA (AC/DC) 140 V SMD"
+			(at 149.86 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG" "Coto Technology"
+			(at 149.86 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CT10-1030-G1"
+			(at 149.86 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VTPN" "4751-00020-00"
 			(at 149.86 86.36 0)
 			(effects
 				(font
@@ -865,7 +892,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Battery_Cell"
+		(property "Value" "HPC 3v67"
 			(at 139.7 101.0284 0)
 			(effects
 				(font
@@ -874,7 +901,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Battery:Battery_Panasonic_CR2032-HFN_Horizontal_CircularHoles"
 			(at 135.89 100.076 90)
 			(effects
 				(font
@@ -883,7 +910,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.longsingtechnology.com/product/hpc1520/"
 			(at 135.89 100.076 90)
 			(effects
 				(font
@@ -893,6 +920,33 @@
 			)
 		)
 		(property "Description" "Single-cell battery"
+			(at 135.89 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFG" "LongSing Technology"
+			(at 135.89 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "HPC-1520"
+			(at 135.89 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "VTPN" "4200-00020-00"
 			(at 135.89 101.6 0)
 			(effects
 				(font
