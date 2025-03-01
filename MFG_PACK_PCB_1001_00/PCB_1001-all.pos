@@ -1,0 +1,10 @@
+### Footprint positions - created on 2025-03-01T15:22:29+0000 ###
+### Printed by KiCad version 8.0.5
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val        Package                                                     PosX       PosY       Rot  Side
+BT1       HPC_3v67   Battery_Panasonic_CR2032-HFN_Horizontal_CircularHoles   131.5830   -85.7596    0.0000  top
+D1        Green_LED  LED_0805_2012Metric                                     151.1300   -97.5360    0.0000  top
+R1        330R       R_0603_1608Metric                                       151.1300   -99.3140    0.0000  top
+SW1       SW_SPST    SW_SPST_REED_CT10-XXXX-G1                               139.4330   -98.5680    0.0000  top
+## End

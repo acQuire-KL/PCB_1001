@@ -104,6 +104,7 @@
 		(property "Value" "SW_SPST"
 			(at 0 -2.2 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "4d2304b7-36b6-4640-b005-5f038803b2f9")
 			(effects
 				(font
@@ -393,7 +394,7 @@
 			)
 		)
 		(property "Value" "HPC 3v67"
-			(at 10.5 11 0)
+			(at 10.657 2.378393 0)
 			(layer "F.Fab")
 			(uuid "9cc19ca2-b0bd-4fd8-ae7f-ca7d98cc22e9")
 			(effects
@@ -766,7 +767,7 @@
 			)
 		)
 		(property "Value" "Green LED"
-			(at 0 1.65 0)
+			(at 0 -3.556 0)
 			(layer "F.Fab")
 			(uuid "1d33b163-6383-4e77-a248-8b4f72c50563")
 			(effects
@@ -1040,7 +1041,7 @@
 			)
 		)
 		(property "Value" "330R"
-			(at 0 1.43 0)
+			(at -0.254 2.794 0)
 			(layer "F.Fab")
 			(uuid "7dbb5478-b047-4097-aa34-8e525c8223f6")
 			(effects
